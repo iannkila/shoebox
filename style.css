@@ -1,0 +1,100 @@
+body,
+html {
+    width: 100%;
+    height: 100%;
+    /* font-family: 'Staatliches', cursive; */
+    font-family: sans-serif;
+    /* background-color: bisque; */
+    background: url(ShoeBox-Logo-Transparent.png) no-repeat center center fixed; 
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    -o-background-size: contain;
+    background-size: contain;  
+}
+
+
+.buffer2 {
+    margin-top: 2rem;
+}
+
+h1 {
+    width: 100%;
+    height: 100%;
+    font-size: 3rem;
+    font-weight: 700;
+    margin: 20px auto;
+    color: #ffc045;
+    border-top: 4px double #ffc045;
+    max-width: 217px;
+    opacity: 1;  
+}
+
+
+.btn{
+    font-weight: 700;
+    border-radius: 400px;
+    text-transform: uppercase;
+}
+
+.btn-xl {
+    padding: .5rem 2rem;
+}
+
+.btn-primary {
+    background-color: #6cbdcc;
+    border-color: #6cbdcc;
+    transition: all 300ms ease-out;
+}
+
+.btn-primary:hover {
+    background-color: #46828d;
+    border-color: #46828d;
+    transform: scale(1.1);
+}
+
+.buffer {
+     margin-top: 23rem;
+}
+
+a, a:link, a:visited {
+    color: white;
+    text-decoration: none;
+}
+
+
+/* .indexButtons {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 100%;
+    column-gap: 1rem;
+} */
+
+
+/* .btn {
+    background-color: rgb(243, 138, 0);
+    border-color: rgb(243, 138, 0);
+    transition: all 300ms ease-out;  
+
+} */
+/* 
+.btn-primary {
+    font-family: 'Staatliches', cursive;
+    font-size: 1.2rem;
+} */
+/* 
+.btn:hover {
+    background-color: rgb(158, 90, 0);
+    border-color: rgb(158, 90, 0);
+    transform: scale(1.1);
+}
+
+
+
+
+a:active {
+    color: rgb(72, 110, 0)
+} */
+
+
+
